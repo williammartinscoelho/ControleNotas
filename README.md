@@ -1,4 +1,4 @@
-# controle-financeiro
+# controle-notas
 
 ## Project setup
 ```
